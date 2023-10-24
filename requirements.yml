@@ -1,0 +1,6 @@
+name: wheather_analysis_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /Users/paulakoralewska/opt/anaconda3/envs/wheather_analysis_env
